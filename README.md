@@ -1,4 +1,4 @@
-# Gerador de QR Code API
+[# Gerador de QR Code API
 
 API backend em Spring Boot para gerar QR Codes em PNG, armazenar os arquivos em um bucket privado no Amazon S3 e retornar uma URL presignada temporaria para download ou preview seguro no frontend.
 
@@ -175,3 +175,4 @@ docker run --rm -p 8080:8080 --env-file .env gerador-qrcode
 ### Fluxo da aplicação 
 
 ![Diagrama do fluxo da aplicação](Img/diagram.png)
+](Img/diagram.png)
