@@ -175,4 +175,3 @@ docker run --rm -p 8080:8080 --env-file .env gerador-qrcode
 ### Fluxo da aplicação 
 
 ![Diagrama do fluxo da aplicação](Img/diagram.png)
-](Img/diagram.png)
